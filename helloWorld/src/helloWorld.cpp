@@ -5,7 +5,7 @@
 using namespace std;
 
 int main () {
-	cout << "Hello World! Typing this out without a template." << endl;
+	cout << "Hello World!" << endl;
 
 	return 0;
 }
