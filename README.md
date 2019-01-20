@@ -8,4 +8,4 @@ Simple C++ programs
 
 3. User Input: simple program getting user input 
 
-4. Basic Geometric Formulas: prompts user for to input a length (in centimeters) specified as a floating point value. Program computes the area of a square, circle and the volume of a cube with the input. 
+4. Basic Geometric Formulas: prompts user for to input a length (in centimeters) specified as a floating point value. Program computes the area of a square, circle and the volume of a cube with the input and returns the answer in meters. 
