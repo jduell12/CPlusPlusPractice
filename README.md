@@ -15,3 +15,5 @@ Simple C++ programs
 6. TempConvert: program that converts Celsuius temperatures to Fahrenheit temperatures
 
 7. Change: program that asks user for a whole number of cents, from 0-99, and outputs how many of each type of coin would represent the amount with the fewest total number of coins 
+
+8. minMax: program that asks the user how many integers they would like to enter. The program will prompt the user to enter that many integers. Program returns the largest and smallest of those numbers. 
