@@ -1,5 +1,4 @@
 /***********************************
- ** Author: Jessica Duell
  ** Date: July 2, 2019
  ** Description: Asks user for four numbers and prints out the average of those numbers
  **********************************/

@@ -1,5 +1,4 @@
 /***********************************
- ** Author: Jessica Duell
  ** Date: July 2, 2019
  ** Description: Asks user for number of cents from 0 to 99 and prints to the screen how many of each type of coin would represent the amount with the fewest number of coins
  **********************************/

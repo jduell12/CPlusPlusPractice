@@ -1,5 +1,4 @@
 /*****************************************
- ** Author: Jessica Duell
  ** Date: July 2, 2019
  ** Description: Program that prompts a user for a temperature in Celsius and converts it to Fahrenheit and prints the result to the screen
  ****************************************/
