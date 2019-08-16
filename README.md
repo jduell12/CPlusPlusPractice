@@ -23,3 +23,5 @@ Simple C++ programs
 10. numGuess: a program that prompts the user for an integer that another player will try to guess. 
 
 11. multiply: recursive function that takes two positive integers and returns the product of those two numbers together. The function finds the product by using addition. 
+
+12. findMedian: function that takes two parameters (array of integers and an int for the size of the array). Function then returns the median of the array. 
