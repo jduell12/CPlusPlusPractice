@@ -22,4 +22,4 @@ Simple C++ programs
 
 10. numGuess: a program that prompts the user for an integer that another player will try to guess. 
 
-11. 
+11. multiply: recursive function that takes two positive integers and returns the product of those two numbers together. The function finds the product by using addition. 
